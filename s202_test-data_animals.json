@@ -34,5 +34,11 @@
   "scientificName": "Panthera uncia",
   "habitat": "High mountain ranges of Central and South Asia",
   "description": "A solitary big cat with thick, spotted fur and a long tail, adapted to cold alpine environments and known for its elusive nature."
+  },
+  {
+  "commonName": "Giant Panda",
+  "scientificName": "Ailuropoda melanoleuca",
+  "habitat": "Temperate bamboo forests of central China",
+  "description": "A distinctive black-and-white bear that primarily feeds on bamboo and is known as a global symbol of wildlife conservation."
   }
 ]
